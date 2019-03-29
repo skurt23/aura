@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "aura-client-master"
+    "default": "aura-client-master",
+    "prod": "gdggrancanaria-c7b01"
   }
 }
