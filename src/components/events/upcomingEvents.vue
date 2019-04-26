@@ -26,7 +26,7 @@
                     <v-card-title class="mb-0">
                         <div>
                             <p class="google-font mb-2" style="font-size:140%;color:#0277bd">{{ item.name }}</p>
-                            <p class="google-font mt-2 mb-1"><span v-html="$options.filters.summery(item.description,180)" style="font-size:110%"></span></p>
+                            <p class="google-font mt-2 mb-1"><span v-html="$options.filters.summery(item.description, 180)" style="font-size:110%"></span></p>
                             <p class="google-font mt-1 mb-0" style="font-size:110%">
                                 <v-icon>insert_invitation</v-icon>
                                 {{item.local_date}}
@@ -35,9 +35,9 @@
                                 <v-icon>watch_later</v-icon>
                                 {{item.local_time}}
                             </p>
-                            <p class="google-font mt-1 mb-0" style="font-size:110%">
+                            <p class="google-font mt-1 mb-0" style="font-size:110%" v-if="item.venue">
                                 <v-icon>map</v-icon>
-                                {{item.venue.name | summery(30)}}
+                                {{item.venue | summery(30)}}
                             </p>
                         </div>
                     </v-card-title>
@@ -114,11 +114,11 @@ export default {
         }
     },
     created(){
-        fetch('https://cors.io/?https://api.meetup.com/'+MeetupAPI.urlname+'/events?key='+MeetupAPI.apiKey).then(data=>data.json()).then(res=>{
-            this.showLoader = false
-            this.showData = true
-            this.showData1 = true
-            this.eventsData = res
+        fetch('http://api.meetup.com/'+MeetupAPI.urlname +'/events').then(data=>data.json()).then(res=>{
+            this.showLoader = false;
+            this.showData = true;
+            this.showData1 = true;
+            this.eventsData = res;
         })
     },
     filters:{

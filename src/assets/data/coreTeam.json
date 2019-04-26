@@ -1,55 +1,37 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Juan Vera",
+        "designation":"Full Stack Developer",
+        "twitter":"https://twitter.com/Juanveragomez",
+        "linkedin":"https://www.linkedin.com/in/juanveragomez/",
+        "github":"https://github.com/juanvera",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Roberto González",
+        "designation":"Full Stack Developer",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "linkedin":"https://www.linkedin.com/in/rgonzalezsuarez/",
+        "github":"",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Aitor Carrera",
+        "designation":"Full Stack Developer",
+        "twitter":"https://twitter.com/aitorcarrera",
+        "linkedin":"https://www.linkedin.com/in/aitorcarrera/",
+        "github":"https://github.com/aitorcarrera",
         "profileImage":"",
-        "website":""
+        "website":"https://github.com"
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Alejandro M. Alberto",
+        "designation":"Full Stack Developer",
+        "twitter":"https://twitter.com/skurt23",
+        "linkedin":"https://www.linkedin.com/in/alejandromalberto/",
+        "github":"https://www.github.com/skurt23",
         "profileImage":"",
         "website":""
     }

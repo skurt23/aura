@@ -1,46 +1,37 @@
 [
     {
-        "name":"Name",
+        "name":"Juan Vera",
         "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
+        "twitter":"https://twitter.com/Juanveragomez",
+        "linkedin":"https://www.linkedin.com/in/juanveragomez/",
         "github":"https://github.com/",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Management",
+        "name":"Roberto González",
+        "designation":"Development",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
+        "linkedin":"https://www.linkedin.com/in/rgonzalezsuarez/",
         "github":"",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
+        "name":"Aitor Carrera",
         "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
+        "twitter":"https://twitter.com/aitorcarrera",
+        "linkedin":"https://www.linkedin.com/in/aitorcarrera/",
+        "github":"https://github.com/aitorcarrera",
         "profileImage":"",
         "website":"https://github.com"
     },
     {
-        "name":"Name",
+        "name":"Alejandro M. Alberto",
         "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
+        "twitter":"https://twitter.com/skurt23",
+        "linkedin":"https://www.linkedin.com/in/alejandromalberto/",
+        "github":"https://www.github.com/skurt23",
         "profileImage":"",
         "website":""
     }
