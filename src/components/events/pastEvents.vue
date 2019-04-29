@@ -70,7 +70,7 @@ export default {
         }
     },
     created(){
-        fetch('http://api.meetup.com/'+MeetupAPI.urlname+'/events?desc=true&photo-host=public&page=8&status=past').then(data=>data.json()).then(res=>{
+        fetch('https://cors-anywhere.herokuapp.com/http://api.meetup.com/'+MeetupAPI.urlname+'/events?desc=true&photo-host=public&page=8&status=past').then(data=>data.json()).then(res=>{
             this.showLoader = false
             this.showData = true
             this.eventsData = res
